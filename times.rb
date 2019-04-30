@@ -1,5 +1,6 @@
 def using_times
-	#your code here
+	7 .time_select do
+	  puts "Wingardium Leviosa"
 end
 
 
